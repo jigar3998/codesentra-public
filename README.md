@@ -1,14 +1,19 @@
 # CodeSentra
 
-**Colorful code intelligence for modern teams.**  
-Detect dead code, unsafe patterns, missing types, and get test stubs — security checks & multi-language roadmap coming.
+**CodeSentra** — colorful code intelligence for modern teams.
 
-- 🌐 Website: https://codesentra.com
-- 📨 Waitlist: on the website
-- 🛠 Support: support@codesentra.com
+- Detect **dead code**, **unsafe patterns**, and **missing types**
+- Generate **unit test stubs** (Jest/Vitest) to speed up reviews and onboarding
+- Clean, **CI-friendly reports** (HTML/JSON); editor integrations on the roadmap
+- **Security checks (beta)** and **multi-language** support coming soon
+
+> This is our public “meta” repo for roadmap, issues, and discussions while the core code lives in a private repo.
+
+- 🌐 Website: https://codesentra.com  
+- 📨 Waitlist: on the website  
+- 🛠 Support: support@codesentra.com  
+- 🙋‍♂️ Hello: hello@codesentra.com  
 - ⚖️ Legal/Privacy: legal@codesentra.com
-
-> This public repo tracks updates, roadmap, and feedback while core code lives in a private repo.
 
 ## Quick Links
 - 📌 [Roadmap](./ROADMAP.md)
